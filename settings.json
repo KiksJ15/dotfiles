@@ -84,4 +84,17 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "github.copilot.enable": {
+      "*": true,
+      "plaintext": false,
+      "markdown": false,
+      "scminput": false,
+      "python": true
+    },
+    "workbench.colorTheme": "SAS Dark",
+    "SAS.connectionProfiles": {
+      "activeProfile": "",
+      "profiles": {}
+    },
+    "files.autoSave": "afterDelay",
 }
